@@ -36,7 +36,6 @@ I'm a passionate developer building **cloud-native applications**, automating pi
   <img alt="JavaScript" src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" height="40" style="margin:5px" />
   <img alt="SQL" src="https://img.shields.io/badge/SQL-003B57?style=for-the-badge&logo=postgresql&logoColor=white" height="40" style="margin:5px" />
   <img alt="Go" src="https://img.shields.io/badge/Go-00ADD8?style=for-the-badge&logo=go&logoColor=white" height="40" style="margin:5px" />
-  <img alt="R" src="https://img.shields.io/badge/R-276DC3?style=for-the-badge&logo=r&logoColor=white" height="40" style="margin:5px" />
   <img alt="HTML5" src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" height="40" style="margin:5px" />
   <img alt="CSS3" src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" height="40" style="margin:5px" />
 </p>
@@ -102,18 +101,6 @@ I'm a passionate developer building **cloud-native applications**, automating pi
 </p>
 
 ---
-
-### 🤖 Machine Learning & AI
-
-<p align="center">
-  <img alt="Keras" src="https://img.shields.io/badge/Keras-D00000?style=for-the-badge&logo=keras&logoColor=white" height="40" style="margin:5px" />
-  <img alt="PyTorch" src="https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white" height="40" style="margin:5px" />
-  <img alt="Scikit-learn" src="https://img.shields.io/badge/Scikit--Learn-F7931E?style=for-the-badge&logo=scikitlearn&logoColor=white" height="40" style="margin:5px" />
-  <img alt="OpenCV" src="https://img.shields.io/badge/OpenCV-5C3EE8?style=for-the-badge&logo=opencv&logoColor=white" height="40" style="margin:5px" />
-  <img alt="CNN" src="https://img.shields.io/badge/CNN-007ACC?style=for-the-badge&logo=azure-functions&logoColor=white" height="40" style="margin:5px" />
-  <img alt="LSTM" src="https://img.shields.io/badge/LSTM-008080?style=for-the-badge&logo=azure-functions&logoColor=white" height="40" style="margin:5px" />
-</p>
-
 ---
 
 ### 🛠️ Tools & IDEs
